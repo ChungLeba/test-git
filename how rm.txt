@@ -1,0 +1,11 @@
+RemindWork hoạt động như thế nào?
+Rất vui được gặp bạn !
+RemindWork là ứng dụng để phân công và quản lý công việc một cách hiệu quả.
+
+Sau khi phân công việc bạn có thể theo dõi được:
+
+Việc gì?
+Ai phải làm gì?
+Thời hạn là khi nào?
+Tiến độ công việc đến đâu?
+Trạng thái công việc thế nào?
